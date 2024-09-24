@@ -16,6 +16,8 @@ import gemini_icon from './gemini_icon.png'
 import tennis from './card3.png'
 import think from './card2.png'
 import pen from './card1.png'
+import google from './google.png'
+import user from './user.png'
 
 export const assets = {
     history_icon,
@@ -35,5 +37,7 @@ export const assets = {
     gemini_icon,
     tennis,
     think,
-    pen
+    pen,
+    google,
+    user
 }
